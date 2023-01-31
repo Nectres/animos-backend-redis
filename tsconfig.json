@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "dist", 
+        "skipLibCheck": true, 
+        "module": "es2022", 
+        "target": "es2022",
+        "moduleResolution": "node", 
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "src/index.ts"
+    ]
+}
